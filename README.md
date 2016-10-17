@@ -15,6 +15,6 @@ To download this package, please use the following code.
 
 ```{r, eval = FALSE}
 install.packages("devtools")
-devtools::install_github()
+devtools::install_github("eodaGmbH/eodaRsupport")
 
 ```
